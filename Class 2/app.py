@@ -3,7 +3,6 @@
 print("Welcome to Class 2")
 
 # -------------------------
-
 # Variables
 name = "Iqra"
 number = 25
